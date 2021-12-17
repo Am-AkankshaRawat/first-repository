@@ -1,0 +1,5 @@
+my name is akanksha and
+today i am learning git
+today i learnt that how to track the changes whatever we have done.
+today i also learnt how to make a git repository.
+today i also learnt how to commit in git. to commit , firstly we have to go to staginh area then yo commit

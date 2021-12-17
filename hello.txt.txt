@@ -1,1 +1,1 @@
-hello this is our first text file in git 
+hello this is our first text file in the git 

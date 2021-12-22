@@ -1,2 +1,2 @@
-hello this is our first text file in the git
-gxhsahjvhjcv 
+hello this is our first text file in the git - first version
+

@@ -1,3 +1,2 @@
 hello today is friday and
-today we are learning git
-hwhgdhas
+today we are learning git - good version.

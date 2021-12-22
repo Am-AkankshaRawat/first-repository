@@ -3,3 +3,4 @@ Today i am learning git
 Today i learnt that how to track the changes whatever we have done.
 Today i also learnt how to make a git repository.
 Today i also learnt how to commit in git. to commit , firstly we have to go to staginh area then to commit
+yess ofcourse.
